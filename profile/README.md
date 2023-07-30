@@ -14,7 +14,7 @@ Current functionalities include:
 - Compositional inference via Gibbs sampling that combines particle MCMC, HMC, [Random-Walk MH (RWMH)](https://github.com/TuringLang/AdvancedMH.jl) and [Elliptical Slice Sampling](https://github.com/TuringLang/Turing.jl/blob/master/src/inference/ess.jl)
 - Advanced variational inference based on [ADVI](https://github.com/TuringLang/AdvancedVI.jl) and [Normalising Flows](https://github.com/TuringLang/Bijectors.jl)
 
-- ## Want to contribute?
+## Want to contribute?
 
 Turing was originally created and is now managed by Hong Ge. Current and past Turing team members include [Hong Ge](http://mlg.eng.cam.ac.uk/hong/), [Kai Xu](http://mlg.eng.cam.ac.uk/?portfolio=kai-xu), [Martin Trapp](http://martint.blog), [Mohamed Tarek](https://github.com/mohamed82008), [Cameron Pfiffer](https://business.uoregon.edu/faculty/cameron-pfiffer), [Tor Fjelde](http://retiredparkingguard.com/about.html).
 You can see the complete list on Github: https://github.com/TuringLang/Turing.jl/graphs/contributors.
