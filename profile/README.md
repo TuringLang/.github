@@ -8,10 +8,10 @@ Turing's modular design and the high-level numerical language Julia make Turing 
 
 Current functionalities include:
 
-- [General-purpose](https://turinglang.org/dev/tutorials/06-infinite-mixture-model/) probabilistic programming with an [intuitive modelling interface](https://turinglang.org/dev/tutorials/00-introduction/)
+- [General-purpose](https://turinglang.org/docs/tutorials/06-infinite-mixture-model/) probabilistic programming with an [intuitive modelling interface](https://turinglang.org/docs/tutorials/00-introduction/)
 - Robust, efficient [Hamiltonian Monte Carlo (HMC)](https://github.com/TuringLang/AdvancedHMC.jl) sampling for differentiable posterior distributions
 - [Particle MCMC](https://github.com/TuringLang/AdvancedPS.jl) sampling for complex posterior distributions involving discrete variables and stochastic control flows
-- Compositional inference via Gibbs sampling that combines particle MCMC, HMC, [Random-Walk MH (RWMH)](https://github.com/TuringLang/AdvancedMH.jl) and [Elliptical Slice Sampling](https://github.com/TuringLang/Turing.jl/blob/master/src/inference/ess.jl)
+- Compositional inference via Gibbs sampling that combines particle MCMC, HMC, [Random-Walk MH (RWMH)](https://github.com/TuringLang/AdvancedMH.jl) and [Elliptical Slice Sampling](https://github.com/TuringLang/Turing.jl/blob/master/src/mcmc/ess.jl)
 - Advanced variational inference based on [ADVI](https://github.com/TuringLang/AdvancedVI.jl) and [Normalising Flows](https://github.com/TuringLang/Bijectors.jl)
 
 ## Citing Turing.jl ##
