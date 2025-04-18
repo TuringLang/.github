@@ -1,8 +1,0 @@
-{
-    "name": "TuringLang TagBot",
-    "description": "TuringLang TagBot template.",
-    "iconName": "tagbot-icon",
-    "filePatterns": [
-        "^Project.toml$",
-    ]
-}
