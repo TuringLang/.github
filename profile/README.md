@@ -1,18 +1,15 @@
-**Turing.jl** is a Julia library for general-purpose [probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming_language).
-Turing allows the user to write models using the standard Julia syntax, 
-and provides a wide range of Monte-Carlo sampling and optimisation-based 
-inference methods for solving problems across probabilistic machine learning, 
-Bayesian statistics and data science. Compared to other probabilistic programming languages, 
-Turing specialises in modularity and decouples the modelling language (i.e., the compiler) and inference methods. 
-Turing's modular design and the high-level numerical language Julia make Turing remarkably extensible, allowing for the easy addition of new model families and inference methods.
+**Turing.jl** is a general-purpose [probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming_language) language. Turing is implemented in the Julia language and allows the user to write probabilistic models using an intuitive `@model` syntax. 
+
+Turing provides a wide range of Monte-Carlo sampling and optimisation-based inference methods for performing inference on probabilistic models. 
 
 Current functionalities include:
 
-- [General-purpose](https://turinglang.org/docs/tutorials/06-infinite-mixture-model/) probabilistic programming with an [intuitive modelling interface](https://turinglang.org/docs/tutorials/00-introduction/)
-- Robust, efficient [Hamiltonian Monte Carlo (HMC)](https://github.com/TuringLang/AdvancedHMC.jl) sampling for differentiable posterior distributions
+- [Intuitive syntax](https://turinglang.org/docs/tutorials/00-introduction/) for specifying probabilistic models
+- [Hamiltonian Monte Carlo (HMC)](https://github.com/TuringLang/AdvancedHMC.jl) sampling for differentiable probability distributions
 - [Particle MCMC](https://github.com/TuringLang/AdvancedPS.jl) sampling for complex posterior distributions involving discrete variables and stochastic control flows
-- Compositional inference via Gibbs sampling that combines particle MCMC, HMC, [Random-Walk MH (RWMH)](https://github.com/TuringLang/AdvancedMH.jl) and [Elliptical Slice Sampling](https://github.com/TuringLang/Turing.jl/blob/main/src/mcmc/ess.jl)
-- Advanced variational inference based on [ADVI](https://github.com/TuringLang/AdvancedVI.jl) and [Normalising Flows](https://github.com/TuringLang/Bijectors.jl)
+- Gibbs sampling that combines particle MCMC, HMC, [Random-Walk MH (RWMH)](https://github.com/TuringLang/AdvancedMH.jl), [Elliptical Slice Sampling](https://github.com/TuringLang/Turing.jl/blob/main/src/mcmc/ess.jl) and more. 
+- Variational inference based on [ADVI](https://github.com/TuringLang/AdvancedVI.jl) and [Normalising Flows](https://github.com/TuringLang/Bijectors.jl)
+- Maximum likelihood and maximum a posteriori [estimation]([url](https://turinglang.org/docs/usage/mode-estimation/)) based on [L-BFGS optimisation](https://docs.sciml.ai/Optimization/). 
 
 ## Citing Turing.jl
 
@@ -20,7 +17,7 @@ If you have used Turing.jl in your work, we would be very grateful if you could 
 
 [**Turing.jl: a general-purpose probabilistic programming language**](https://doi.org/10.1145/3711897)  
 Tor Erlend Fjelde, Kai Xu, David Widmann, Mohamed Tarek, Cameron Pfiffer, Martin Trapp, Seth D. Axen, Xianda Sun, Markus Hauru, Penelope Yong, Will Tebbutt, Zoubin Ghahramani, Hong Ge  
-ACM Transactions on Probabilistic Machine Learning, 2025 (_Just Accepted_)  
+ACM Transactions on Probabilistic Machine Learning, 2025
 
 [**Turing: A Language for Flexible Probabilistic Inference**](https://proceedings.mlr.press/v84/ge18b.html)  
 Hong Ge, Kai Xu, Zoubin Ghahramani  
