@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://turinglang.org/assets/logo/turing-logo-dark.svg">
+    <img src="https://turinglang.org/assets/logo/turing-logo-light.svg" alt="Turing.jl logo" width="300">
+  </picture>
+</p>
+
 **Turing.jl** is a general-purpose [probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming_language) language. Turing is implemented in the Julia language and allows the user to write probabilistic models using an intuitive `@model` syntax. 
 
 Turing provides a wide range of Monte-Carlo sampling and optimisation-based inference methods for performing inference on probabilistic models. 
