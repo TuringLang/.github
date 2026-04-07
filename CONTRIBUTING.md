@@ -80,7 +80,6 @@ When a contribution appears non-compliant with this policy, maintainers may use 
 
 ## Need help?
 
-- Look for issues labeled `help wanted`.
-- If you are unsure about scope or design, open a discussion before implementing a large change.
+If you are unsure about scope or design, please open a issue or a discussion on Slack / Discourse before implementing a large change.
 
 Thanks for helping make the TuringLang community sustainable, welcoming, and high quality.
