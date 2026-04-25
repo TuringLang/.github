@@ -24,6 +24,8 @@ Current functionalities include:
 > Organisations that rely on Turing.jl in commercial or industrial contexts are encouraged to support its development, either through financial contributions or direct code contributions.
 >
 > If you are interested in contributing to the TuringLang codebase, the preferred approach is to draft a feature proposal and submit it for review. The TuringLang team will then indicate whether the proposal is accepted or rejected. Upon acceptance, contributors may proceed with implementing the proposed feature. Bug fixes and small changes, however, are typically submitted directly as pull requests.
+> 
+> Reviewer privileges are reserved for individuals with a sustained record of substantive contributions to TuringLang, or those explicitly invited by a team member.
 
 ## Citing Turing.jl
 
