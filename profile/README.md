@@ -18,6 +18,13 @@ Current functionalities include:
 - Variational inference based on [ADVI](https://github.com/TuringLang/AdvancedVI.jl) and [Normalising Flows](https://github.com/TuringLang/Bijectors.jl)
 - Maximum likelihood and maximum a posteriori [estimation]([url](https://turinglang.org/docs/usage/mode-estimation/)) based on [L-BFGS optimisation](https://docs.sciml.ai/Optimization/). 
 
+> [!IMPORTANT]                                                                                                                                                                                                                   
+> Turing.jl is an open-source project developed primarily by academic researchers within grant-funded institutions. As a result, our capacity to triage issues and review contributions is limited by available resources.
+>
+> Organisations that rely on Turing.jl in commercial or industrial contexts are encouraged to support its development, either through financial contributions or direct code contributions.
+>
+> If you are interested in contributing to the TuringLang codebase, the preferred approach is to draft a feature proposal and submit it for review. The TuringLang team will then indicate whether the proposal is accepted or rejected. Upon acceptance, contributors may proceed with implementing the proposed feature. Bug fixes and small changes, however, are typically submitted directly as pull requests.
+
 ## Citing Turing.jl
 
 If you have used Turing.jl in your work, we would be very grateful if you could cite the following:
