@@ -7,6 +7,8 @@ This policy applies organization-wide through the shared `.github` repository. I
 - Write clear and professional English in issues, pull requests, and review comments.
 - Explain reasoning, not only the code delta. For bug fixes, describe the root cause and why your fix addresses it.
 - Keep contributions focused and appropriately scoped for review.
+- Do not post comments that only ask whether you may work on an issue. Instead, describe the proposal, explain how you plan to implement it, and open a PR when ready.
+- Do not spam maintainers with repeated comments, mentions, or low-effort requests for assignment or review.
 - Be ready to answer technical questions about your changes during review.
 
 Our standard is simple: a contribution should be worth more to the project than the time required to review it.
@@ -80,6 +82,6 @@ When a contribution appears non-compliant with this policy, maintainers may use 
 
 ## Need help?
 
-If you are unsure about scope or design, please open a issue or a discussion on Slack / Discourse before implementing a large change.
+If you are unsure about scope or design, please open an issue or a discussion on Slack / Discourse before implementing a large change. Include the concrete change you want to make and how you plan to approach it.
 
 Thanks for helping make the TuringLang community sustainable, welcoming, and high quality.

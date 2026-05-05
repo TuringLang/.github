@@ -22,6 +22,7 @@ We are committed to a welcoming, respectful, and inclusive community for everyon
 - Sexualized language or unwelcome sexual attention.
 - Doxxing, sharing private information, or threats.
 - Repeated disruption, trolling, or bad-faith engagement.
+- Spam, including repeated assignment requests, repeated review pings, or comments that do not add useful information.
 - Repeatedly submitting unreviewed, low-quality, or misleadingly presented generated content.
 
 ## Scope
