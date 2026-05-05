@@ -4,7 +4,7 @@ This policy applies organization-wide through the shared `.github` repository. I
 
 ## Overall expectations
 
-- Write clear, professional, native-sounding English in issues, pull requests, and review comments.
+- Write clear and professional English in issues, pull requests, and review comments.
 - Explain reasoning, not only the code delta. For bug fixes, describe the root cause and why your fix addresses it.
 - Keep contributions focused and appropriately scoped for review.
 - Be ready to answer technical questions about your changes during review.
@@ -80,7 +80,6 @@ When a contribution appears non-compliant with this policy, maintainers may use 
 
 ## Need help?
 
-- Look for issues labeled `help wanted`.
-- If you are unsure about scope or design, open a discussion before implementing a large change.
+If you are unsure about scope or design, please open a issue or a discussion on Slack / Discourse before implementing a large change.
 
 Thanks for helping make the TuringLang community sustainable, welcoming, and high quality.
