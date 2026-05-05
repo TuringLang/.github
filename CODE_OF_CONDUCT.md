@@ -12,6 +12,7 @@ We are committed to a welcoming, respectful, and inclusive community for everyon
 - Assume good intent and ask clarifying questions before escalating.
 - Give and receive constructive technical feedback.
 - Keep discussion focused on ideas and evidence.
+- Respect maintainer and reviewer time by engaging in good faith and responding thoughtfully to review.
 - Respect differing viewpoints and lived experiences.
 
 ## Unacceptable behavior
@@ -21,6 +22,7 @@ We are committed to a welcoming, respectful, and inclusive community for everyon
 - Sexualized language or unwelcome sexual attention.
 - Doxxing, sharing private information, or threats.
 - Repeated disruption, trolling, or bad-faith engagement.
+- Repeatedly submitting unreviewed, low-quality, or misleadingly presented generated content.
 
 ## Scope
 

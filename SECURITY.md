@@ -17,6 +17,8 @@ When possible, include:
 - Expected impact and attack preconditions
 - Any mitigation ideas you have already tested
 
+Reports may use AI or other tools for drafting or analysis, but please verify the issue yourself before reporting. Do not submit speculative or unreviewed tool-generated vulnerability reports.
+
 ## What to expect
 
 After receiving a report, maintainers will:
