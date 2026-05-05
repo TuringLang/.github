@@ -9,6 +9,7 @@ This policy applies organization-wide through the shared `.github` repository. I
 - Keep contributions focused and appropriately scoped for review.
 - Do not post comments that only ask whether you may work on an issue. Instead, describe the proposal, explain how you plan to implement it, and open a PR when ready.
 - Do not spam maintainers with repeated comments, mentions, or low-effort requests for assignment or review.
+- Do not tag individual maintainers unless you know they are the right person to ask. If your issue or PR needs urgent attention, tag `@maintainers` instead.
 - Be ready to answer technical questions about your changes during review.
 
 Our standard is simple: a contribution should be worth more to the project than the time required to review it.
