@@ -5,18 +5,16 @@
   </picture>
 </p>
 
-**Turing.jl** is a general-purpose [probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming_language) language. Turing is implemented in the Julia language and allows the user to write probabilistic models using an intuitive `@model` syntax. 
+**`Turing.jl`** is a general-purpose [probabilistic programming](https://en.wikipedia.org/wiki/Probabilistic_programming_language) language implemented in Julia, allowing models to be specified through an intuitive `@model` syntax. It provides a broad range of Monte Carlo sampling and optimisation-based inference methods.
 
-Turing provides a wide range of Monte-Carlo sampling and optimisation-based inference methods for performing inference on probabilistic models. 
+Current capabilities include:
 
-Current functionalities include:
-
-- [Intuitive syntax](https://turinglang.org/docs/tutorials/00-introduction/) for specifying probabilistic models
-- [Hamiltonian Monte Carlo (HMC)](https://github.com/TuringLang/AdvancedHMC.jl) sampling for differentiable probability distributions
-- [Particle MCMC](https://github.com/TuringLang/AdvancedPS.jl) sampling for complex posterior distributions involving discrete variables and stochastic control flows
-- Gibbs sampling that combines particle MCMC, HMC, [Random-Walk MH (RWMH)](https://github.com/TuringLang/AdvancedMH.jl), [Elliptical Slice Sampling](https://github.com/TuringLang/Turing.jl/blob/main/src/mcmc/ess.jl) and more. 
-- Variational inference based on [ADVI](https://github.com/TuringLang/AdvancedVI.jl) and [Normalising Flows](https://github.com/TuringLang/Bijectors.jl)
-- Maximum likelihood and maximum a posteriori [estimation]([url](https://turinglang.org/docs/usage/mode-estimation/)) based on [L-BFGS optimisation](https://docs.sciml.ai/Optimization/). 
+- [Intuitive model specification](https://turinglang.org/docs/tutorials/00-introduction/) via the `@model` macro
+- [Hamiltonian Monte Carlo](https://github.com/TuringLang/AdvancedHMC.jl) for differentiable target distributions
+- [Particle MCMC](https://github.com/TuringLang/AdvancedPS.jl) for posteriors involving discrete variables and stochastic control flow
+- Gibbs sampling, combining particle MCMC, HMC, [Random-Walk Metropolis–Hastings](https://github.com/TuringLang/AdvancedMH.jl), [elliptical slice sampling](https://github.com/TuringLang/Turing.jl/blob/main/src/mcmc/ess.jl), and others
+- Variational inference via [ADVI](https://github.com/TuringLang/AdvancedVI.jl) and [normalising flows](https://github.com/TuringLang/Bijectors.jl)
+- Maximum-likelihood and maximum a posteriori [estimation](https://turinglang.org/docs/usage/mode-estimation/) via [L-BFGS optimisation](https://docs.sciml.ai/Optimization/)
 
 > [!IMPORTANT]
 > `Turing.jl` is maintained primarily by academic researchers at grant-funded institutions, with correspondingly limited capacity for triage and review.
