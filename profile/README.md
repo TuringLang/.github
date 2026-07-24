@@ -19,7 +19,7 @@ Current capabilities include:
 > [!IMPORTANT]
 > Turing.jl is maintained primarily by academic researchers at grant-funded research institutions, with correspondingly limited capacity for triage and review.
 >
-> If you would like to contribute, we ask that proposals for new features be submitted first, so that the TuringLang team can indicate whether they are aligned with the project's direction before implementation begins. Bug fixes and small changes are very welcome as direct pull requests. Reviewer privileges are reserved for those with a sustained record of substantive contributions, or for individuals explicitly invited by a team member. Accounts used for spam or abuse will be blocked and reported; moderation is otherwise undertaken at our discretion, as capacity permits.
+> If you would like to contribute, we ask that proposals for new features be submitted first, so that the TuringLang team can indicate whether they are aligned with the project's direction before implementation begins. Bug fixes and small changes are very welcome as direct pull requests. Reviewer privileges are reserved for those with a sustained record of substantive contributions, or for individuals explicitly invited by a team member. Accounts involved in spam or abuse will be blocked and reported; moderation is otherwise undertaken at our discretion, as capacity permits.
 
 ## Citing Turing.jl
 
