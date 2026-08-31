@@ -1,13 +1,19 @@
-# TuringLang .github
+# TuringLang organization policies
 
-Organization-wide GitHub Actions and other metadata.
+This repository defines the default policies and public profile for the
+TuringLang organization on GitHub. A repository-specific policy takes
+precedence over the corresponding default.
 
-Default community health files:
+The default policies are:
 
-- `CONTRIBUTING.md`
-- `CODE_OF_CONDUCT.md`
-- `SECURITY.md`
+- [Helping out](CONTRIBUTING.md)
+- [Code of conduct](CODE_OF_CONDUCT.md)
 
-See the GitHub documentation about [creating default community health files](https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) and
-[sharing workflows](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/sharing-workflows-with-your-organization)
-for details on how this repository works.
+The [organization profile](profile/README.md) describes Turing.jl's scope,
+capabilities, and citation information.
+
+See GitHub's documentation on
+[default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+and
+[organization profiles](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+for the rules governing these files.
