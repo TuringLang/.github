@@ -1,48 +1,53 @@
-# Code of Conduct
+# Code of conduct
 
-This Code of Conduct applies across repositories in the TuringLang organization unless a repository defines its own policy.
+This code applies across TuringLang repositories unless a repository defines
+its own policy.
 
-## Our commitment
+## Purpose
 
-We are committed to a welcoming, respectful, and inclusive community for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, nationality, personal appearance, race, religion, or sexual identity and orientation.
+TuringLang develops research software. Critical examination of methods,
+evidence, and implementations is essential to this work. Disagreement should
+remain focused on the work and must not become personal abuse.
 
-## Expected behavior
+Participation must be free from harassment and discrimination, regardless of
+age, body size, disability, ethnicity, sex characteristics, gender identity or
+expression, level of experience, education, socioeconomic status, nationality,
+personal appearance, race, caste, colour, religion, or sexual identity and
+orientation.
+
+## Expected behaviour
 
 - Be respectful in language and tone.
-- Assume good intent and ask clarifying questions before escalating.
-- Give and receive constructive technical feedback.
-- Keep discussion focused on ideas and evidence.
-- Respect maintainer and reviewer time by engaging in good faith and responding thoughtfully to review.
-- Respect differing viewpoints and lived experiences.
+- Critique claims, methods, evidence, and code rather than their authors.
+- State technical objections clearly and support them with relevant evidence or
+  reasoning.
+- Ask for clarification when a claim or its meaning is unclear.
+- Receive criticism professionally, correct errors, and acknowledge uncertainty.
+- Respect differing experiences and areas of expertise.
 
-## Unacceptable behavior
+## Unacceptable behaviour
 
 - Harassment, intimidation, discrimination, or hate speech.
-- Personal attacks, insults, or deliberately inflammatory comments.
-- Sexualized language or unwelcome sexual attention.
-- Doxxing, sharing private information, or threats.
+- Personal attacks, insults, threats, or deliberately inflammatory comments.
+- Sexualised language or imagery and unwelcome sexual attention.
+- Publishing another person's private information without permission.
 - Repeated disruption, trolling, or bad-faith engagement.
-- Spam, including repeated assignment requests, repeated review pings, or comments that do not add useful information.
-- Repeatedly submitting unreviewed, low-quality, or misleadingly presented generated content.
+- Spam, including repeated assignment requests, review pings, or comments that
+  add no useful information.
+- Repeated submission of unreviewed or misleadingly presented content produced
+  with automated or AI-assisted tools.
 
 ## Scope
 
-This policy applies in project spaces, including issues, pull requests, discussions, review comments, and other community communication channels.
+This policy applies in project spaces, including issues, pull requests,
+discussions, review comments, and other TuringLang communication channels. It
+also applies when someone represents TuringLang in an official capacity.
 
-## Reporting
-
-If you experience or witness unacceptable behavior, report it to repository or organization maintainers.
-
-- Prefer private channels where available (for example, direct contact methods listed by maintainers).
-- Include links, timestamps, and relevant context so maintainers can investigate quickly.
-- Do not post sensitive reports publicly.
-
-## Enforcement
-
-Maintainers are responsible for clarifying and enforcing this policy. They may take any action they consider appropriate, including warnings, comment moderation, temporary restrictions, or bans.
-
-All reports will be reviewed promptly and handled with discretion.
+Accounts used for spam or abusive conduct will be blocked and reported to the
+relevant platform. Other moderation is undertaken by a TuringLang team member
+at their discretion, as capacity permits.
 
 ## Attribution
 
-This policy is informed by widely used open-source community standards, including the Contributor Covenant.
+This policy draws on the
+[Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
