@@ -28,15 +28,6 @@ Current capabilities include:
   [estimation](https://turinglang.org/docs/usage/mode-estimation/) through
   [Optimization.jl](https://docs.sciml.ai/Optimization/), using L-BFGS by default
 
-## Project scope
-
-Turing is maintained as grant-funded research software. Development prioritises
-correctness, reproducibility, and stability within the documented scope.
-
-Reports of incorrect results or unexpected failures should include a minimal
-reproducible example where practical. Maintenance and review capacity is
-necessarily limited.
-
 ## Open code and reproducible research
 
 Turing.jl is distributed under the
@@ -48,9 +39,17 @@ random seeds, and relevant computational settings.
 
 ## Helping out
 
-See the [guidance for helping out](../CONTRIBUTING.md) with small fixes, new
-feature proposals, and reviewing. Questions about a scoped task may be raised
-on its issue, in the
+The Turing.jl team has limited capacity for triage and review. We prioritise
+correctness, stability, and tightly scoped fixes.
+
+Contributions that address reproducible defects are especially welcome:
+incorrect results, unexpected failures, or behaviour that contradicts the
+documentation. Reports should include a minimal reproducible example where
+practical.
+See the [guidance for helping out](../CONTRIBUTING.md) for details on small fixes,
+proposing new work, and reviewing.
+
+Questions about a scoped task may be raised on its issue, in the
 [Turing channel on Julia Slack](https://julialang.slack.com/archives/CCYDC34A0),
 or on [Julia Discourse](https://discourse.julialang.org/tag/turing).
 
