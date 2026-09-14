@@ -28,15 +28,6 @@ Current capabilities include:
   [estimation](https://turinglang.org/docs/usage/mode-estimation/) through
   [Optimization.jl](https://docs.sciml.ai/Optimization/), using L-BFGS by default
 
-## Open code and reproducible research
-
-Turing.jl is distributed under the
-[MIT License](https://github.com/TuringLang/Turing.jl/blob/main/LICENCE). Its
-source code, tests, and documentation are public, allowing methods and
-implementations to be inspected and reused. Reproducible analyses should archive
-the analysis code and Julia project environment, and record data provenance,
-random seeds, and relevant computational settings.
-
 ## Helping out
 
 The Turing.jl team has limited capacity for triage and review. We prioritise
@@ -102,3 +93,12 @@ Proceedings of the Twenty-First International Conference on Artificial Intellige
 ```
 
 </details>
+
+## Open code and reproducible research
+
+Turing.jl is distributed under the
+[MIT License](https://github.com/TuringLang/Turing.jl/blob/main/LICENCE). Its
+source code, tests, and documentation are public, allowing methods and
+implementations to be inspected and reused. Reproducible analyses should archive
+the analysis code and Julia project environment, and record data provenance,
+random seeds, and relevant computational settings.
